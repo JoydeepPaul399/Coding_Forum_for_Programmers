@@ -31,11 +31,11 @@ A web-based platform designed to facilitate discussions, problem-solving, and kn
 1. Clone the repository: git clone https://github.com/JoydeepPaul399/Coding_Forum_for_Programmers.git
 2. Navigate to the project directory: cd Coding_Forum_for_Programmers
 3. Set up the database:
-  -Create a new MySQL database.
-  -Import the provided SQL schema (if available) to set up the necessary tables.
+  - Create a new MySQL database.
+  - Import the provided SQL schema (if available) to set up the necessary tables.
 4. Configure database connection:
-   -Update the database connection settings in the PHP files as per your environment.
+   - Update the database connection settings in the PHP files as per your environment.
 
 5. Launch the application:
-  -Place the project files in your web server's root directory.
-  -Access the application through your browser.
+  - Place the project files in your web server's root directory.
+  - Access the application through your browser.
