@@ -33,7 +33,7 @@
 
   <p>A web-based platform designed to facilitate discussions, problem-solving, and knowledge sharing among programmers and developers.</p>
 
-  <h2>✅ Features</h2>
+  <h2> Features</h2>
   <ul>
     <li><strong>User Authentication:</strong> Secure login and registration system.</li>
     <li><strong>Discussion Threads:</strong> Post and engage in coding-related discussions.</li>
@@ -41,14 +41,14 @@
     <li><strong>Responsive Design:</strong> Optimized for both desktop and mobile devices.</li>
   </ul>
 
-  <h2>🛠️ Technologies Used</h2>
+  <h2> Technologies Used</h2>
   <ul>
     <li>Frontend: HTML, CSS, JavaScript</li>
     <li>Backend: PHP</li>
     <li>Database: MySQL</li>
   </ul>
 
-  <h2>📁 Project Structure</h2>
+  <h2> Project Structure</h2>
   <pre>
 /Coding_Forum_for_Programmers
 │
