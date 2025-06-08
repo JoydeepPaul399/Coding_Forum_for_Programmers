@@ -2,30 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>README - Coding Forum for Programmers</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 2rem;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #f0f0f0;
-      padding: 1rem;
-      overflow-x: auto;
-      border-radius: 6px;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-  </style>
+  
 </head>
 <body>
 
